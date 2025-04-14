@@ -6,6 +6,7 @@ export default function Document() {
 			<Head>
 				<meta charSet='utf-8' />
 				<link rel='icon' type='image/png' href='/images/favicon.png' />
+				<title>Could They Be A Bot?</title>
 				<meta
 					name='viewport'
 					content='width=device-width, initial-scale=1, user-scalable=0, viewport-fit=cover'
